@@ -1,0 +1,151 @@
+{
+    "Wand": {
+        "1": [
+            "Maximum Life"
+        ],
+        "2": [
+            "Intelligence",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
+        ]
+    },
+    "Focus": {
+        "1": [
+            "Critical Strike Chance",
+            "Cooldown Reduction"
+        ],
+        "2": [
+            "Resource Cost Reduction",
+            "Lucky Hit Chance to Restore Primary Resource"
+        ],
+        "3": [
+            "Maximum Life",
+            "Intelligence"
+        ]
+    },
+    "Helm": {
+        "1": [
+            "Cooldown Reduction"
+        ],
+        "2": [
+            "Mana per Second",
+            "Resistances",
+            "Armor"
+        ],
+        "3": [
+            "Lucky Hit Chance",
+            "Maximum Life",
+            "Intelligence"
+        ]
+    },
+    "Chest": {
+        "1": [
+            "3"
+        ],
+        "2": [
+            "Maximum Life",
+            "Intelligence"
+        ]
+    },
+    "Gloves": {
+        "1": [
+            "Frozen Orb",
+            "Critical Strike Chance",
+            "Attack Speed"
+        ],
+        "2": [
+            "Resource Cost Reduction",
+            "Resistances",
+            "Armor"
+        ],
+        "3": [
+            "Lucky Hit Chance",
+            "Maximum Life",
+            "Intelligence",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
+        ]
+    },
+    "Pants": {
+        "1": [
+            "Resistance",
+            "Armor"
+        ],
+        "2": [
+            "Maximum Life",
+            "Intelligence"
+        ]
+    },
+    "Amulet": {
+        "1": [
+            "3"
+        ],
+        "2": [
+            "Resource Cost Reduction",
+            "Movement Speed",
+            "Resistances",
+            "Armor"
+        ]
+    },
+    "Ring": {
+        "1": [
+            "Critical Strike Chance",
+            "Attack Speed",
+            "Resource Cost"
+        ],
+        "2": [
+            "Lucky Hit Chance",
+            "Maximum Life",
+            "Resistance"
+        ],
+        "3": [
+            "Intelligence",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
+        ]
+    },
+    "Chest Armor": {
+        "1": [
+            "Defensive Skills"
+        ],
+        "2": [
+            "Mana per Second",
+            "Resistances",
+            "Armor"
+        ],
+        "3": [
+            "Maximum Life",
+            "Intelligence"
+        ]
+    },
+    "Boots": {
+        "1": [
+            "Movement Speed"
+        ],
+        "2": [
+            "Mana per Second",
+            "Resistances",
+            "Armor"
+        ],
+        "3": [
+            "Maximum Life",
+            "Intelligence"
+        ]
+    },
+    "Necklace": {
+        "1": [
+            "Conjuration Mastery",
+            "Critical Strike Chance",
+            "Cooldown Reduction"
+        ],
+        "2": [
+            "Attack Speed"
+        ],
+        "3": [
+            "Resource Cost",
+            "Movement Speed",
+            "Resistance",
+            "Armor"
+        ]
+    }
+}
